@@ -1,5 +1,5 @@
 # akhileshgit-demo
 first git repository
 <br>
-author - Akhilesh Kumar
+author - Akhilesh Kumar Jha
 
